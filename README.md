@@ -1,4 +1,5 @@
 # Order Processing – BPMN Analysis
+![BPMN Diagram](diagram.png)
 
 ## Overview
 
